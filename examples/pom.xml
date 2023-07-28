@@ -119,7 +119,7 @@
             <dependency>
                 <groupId>org.osgi.enroute</groupId>
                 <artifactId>enterprise-api</artifactId>
-                <version>7.0.0-SNAPSHOT</version>
+                <version>7.0.0</version>
                 <type>pom</type>
                 <scope>provided</scope>
             </dependency>
